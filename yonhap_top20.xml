@@ -9,8 +9,18 @@
     <copyright>저작권자(c) 연합뉴스, 무단 전재-재배포, AI 학습 및 활용 금지</copyright>
     <ns1:updatePeriod>hourly</ns1:updatePeriod>
     <ns1:updateFrequency>1</ns1:updateFrequency>
-    <lastBuildDate>Wed, 29 Apr 2026 13:23:04 +0000</lastBuildDate>
-    <pubDate>Wed, 29 Apr 2026 22:16:25 +0900</pubDate>
+    <lastBuildDate>Wed, 29 Apr 2026 13:34:18 +0000</lastBuildDate>
+    <pubDate>Wed, 29 Apr 2026 22:26:53 +0900</pubDate>
+    <item>
+      <title>주미英대사 "미국과 '특별한 관계' 국가는 아마도 이스라엘뿐"</title>
+      <link>https://www.yna.co.kr/view/AKR20260429186900071</link>
+      <guid isPermaLink="true">https://www.yna.co.kr/view/AKR20260429186900071</guid>
+      <pubDate>Wed, 29 Apr 2026 22:26:53 +0900</pubDate>
+      <dc:creator>조준형</dc:creator>
+      <description>(워싱턴=연합뉴스) 조준형 특파원 = 찰스 3세 영국 국왕이 미국을 국빈 방문 중인 가운데, 미국 주재 영국 대사가 미국과 특별한 관계를 맺고 ...</description>
+      <ns3:content url="https://img.yna.co.kr/etc/inner/KR/2026/04/29/AKR20260429186900071_01_i_P2.jpg" type="image/jpeg">
+			</ns3:content>
+    </item>
     <item>
       <title>[프로야구 창원전적] KIA 9-4 NC</title>
       <link>https://www.yna.co.kr/view/AKR20260429186700007</link>
@@ -195,16 +205,6 @@
       <dc:creator>김재홍</dc:creator>
       <description>(부산=연합뉴스) 김재홍 차근호 기자 = 6·3지방선거 부산시장 선거에 출마한 개혁신당 정이한 후보에게 음료수를 던진 30대 남성의 구속영장이 ...</description>
       <ns3:content url="https://img.yna.co.kr/photo/yna/YH/2026/04/16/PYH2026041603750005100_P2.jpg" type="image/jpeg">
-			</ns3:content>
-    </item>
-    <item>
-      <title>우크라, 이스라엘에 '러 점령지 곡물' 수출 선박 압류 요청</title>
-      <link>https://www.yna.co.kr/view/AKR20260429183100109</link>
-      <guid isPermaLink="true">https://www.yna.co.kr/view/AKR20260429183100109</guid>
-      <pubDate>Wed, 29 Apr 2026 20:57:43 +0900</pubDate>
-      <dc:creator>민경락</dc:creator>
-      <description>(로마=연합뉴스) 민경락 특파원 = 러시아가 점령한 우크라이나 지역에서 곡물을 훔쳐 수출하고 있다며 관련 선박을 압류해달라고 우크라이나가 이스라...</description>
-      <ns3:content url="https://img.yna.co.kr/photo/reuters/2026/04/17/PRU20260417304201009_P2.jpg" type="image/jpeg">
 			</ns3:content>
     </item>
   </channel>
