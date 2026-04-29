@@ -1,18 +1,27 @@
 <?xml version='1.0' encoding='utf-8'?>
 <rss version="2.0">
   <channel>
-    <title>🌅 모닝 브리핑 — 2026년 04월 29일</title>
+    <title>🌅 모닝 브리핑 — 2026년 04월 30일</title>
     <link>https://github.com</link>
     <description>고텐바시 (御殿場市) 날씨 + 오늘의 뉴스 10선</description>
     <language>ko</language>
-    <lastBuildDate>Wed, 29 Apr 2026 22:46:01 +0900</lastBuildDate>
+    <lastBuildDate>Thu, 30 Apr 2026 08:40:47 +0900</lastBuildDate>
     <item>
-      <title>🌤 고텐바시 (御殿場市) 오늘의 날씨 (2026년 04월 29일)</title>
+      <title>🌤 고텐바시 (御殿場市) 오늘의 날씨 (2026년 04월 30일)</title>
       <link>https://open-meteo.com</link>
-      <description>【현재】부분 흐림⛅  기온 11.7°C (체감 11.0°C)  풍속 6.1km/h  강수 0.0mm
-【오늘 예보】최고 19.0°C / 최저 11.6°C  강수량 0.1mm  이슬비🌦</description>
-      <pubDate>Wed, 29 Apr 2026 22:46:01 +0900</pubDate>
-      <guid>weather-20260429</guid>
+      <description>【현재】부분 흐림⛅  기온 10.9°C (체감 9.0°C)  풍속 9.2km/h  강수 0.0mm
+【오늘 예보】최고 11.6°C / 최저 9.4°C  강수량 12.7mm  비🌧</description>
+      <pubDate>Thu, 30 Apr 2026 08:40:47 +0900</pubDate>
+      <guid>weather-20260430</guid>
+    </item>
+    <item>
+      <title>트럼프 "독일 주둔 미군 감축 검토 중...조만간 결정"</title>
+      <link>https://news.jtbc.co.kr/article/NB12296416</link>
+      <guid>https://news.jtbc.co.kr/article/NB12296416</guid>
+      <description>도널드 트럼프 미국 대통령이 독일 주둔 미군 감축을 검토하고 있습니다.
+
+트럼프 대통령은 현지시간 29일 자신의 소셜미디어 트루스소셜을 통해 "미국은 독일에 주둔하는 병력을 감축할 가능성을 검토하고 있으며 조만간 결</description>
+      <pubDate>Thu, 30 Apr 2026 06:55:53 +0900</pubDate>
     </item>
     <item>
       <title>S&amp;P, 한국 국가신용등급 AA 유지…"올해 성장 가속화 전망"</title>
@@ -40,15 +49,6 @@
 
 서울고법 형사1부는 오늘(29일) 특수공무집행방해와 직권남용 권리행사방해 등 </description>
       <pubDate>Wed, 29 Apr 2026 15:03:10 +0900</pubDate>
-    </item>
-    <item>
-      <title>[속보] 트럼프 "이란 '붕괴상태'라고 조금 전 직접 알려와"</title>
-      <link>https://news.jtbc.co.kr/article/NB12296229</link>
-      <guid>https://news.jtbc.co.kr/article/NB12296229</guid>
-      <description>도널드 트럼프 미국 대통령이 현지시간 28일 "이란이 방금 우리에게 그들이 '붕괴 상태'(State of Collapse)에 처해 있다고 알려왔다"고 밝혔습니다.
-
-트럼프 대통령은 이날 자신의 SNS를 통해 "그들이</description>
-      <pubDate>Tue, 28 Apr 2026 23:01:21 +0900</pubDate>
     </item>
   </channel>
 </rss>
