@@ -1,114 +1,45 @@
 <?xml version='1.0' encoding='utf-8'?>
 <rss version="2.0">
   <channel>
-    <title>🌅 모닝 브리핑 — 2026년 05월 01일</title>
+    <title>🌅 모닝 브리핑 — 2026년 05월 02일</title>
     <link>https://github.com</link>
     <description>고텐바시 (御殿場市) 날씨 + 오늘의 뉴스 10선</description>
     <language>ko</language>
-    <lastBuildDate>Fri, 01 May 2026 08:38:31 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 02 May 2026 08:38:56 +0900</lastBuildDate>
     <item>
-      <title>🌤 고텐바시 (御殿場市) 오늘의 날씨 (2026년 05월 01일)</title>
+      <title>🌤 고텐바시 (御殿場市) 오늘의 날씨 (2026년 05월 02일)</title>
       <link>https://open-meteo.com</link>
-      <description>【현재】강한 비🌧  기온 12.6°C (체감 12.2°C)  풍속 6.5km/h  강수 3.1mm
-【오늘 예보】최고 16.8°C / 최저 9.9°C  강수량 88.5mm  강한 비🌧</description>
-      <pubDate>Fri, 01 May 2026 08:38:31 +0900</pubDate>
-      <guid>weather-20260501</guid>
+      <description>【현재】맑음☀️  기온 16.1°C (체감 14.4°C)  풍속 12.9km/h  강수 0.0mm
+【오늘 예보】최고 22.0°C / 최저 10.3°C  강수량 0.0mm  흐림☁️</description>
+      <pubDate>Sat, 02 May 2026 08:38:56 +0900</pubDate>
+      <guid>weather-20260502</guid>
     </item>
     <item>
-      <title>[속보] 대검 "조작수사 특검법, 재판에 부당 영향 우려 있어"</title>
-      <link>https://news.jtbc.co.kr/article/NB12296549</link>
-      <guid>https://news.jtbc.co.kr/article/NB12296549</guid>
-      <description>[속보] 대검 "조작수사 특검법, 재판에 부당 영향 우려 있어"</description>
-      <pubDate>Thu, 30 Apr 2026 18:48:43 +0900</pubDate>
+      <title>경기 하남갑 이용 공천…'정진석 출마' 충남 공주는 보류</title>
+      <link>https://news.jtbc.co.kr/article/NB12296624</link>
+      <guid>https://news.jtbc.co.kr/article/NB12296624</guid>
+      <description>국민의힘 공천관리위원회는 오늘(1일) 경기 하남갑에 친윤석열계로 비례대표 의원을 지낸 이용 현 당협위원장을 단수공천했습니다.
+
+윤석열 전 대통령의 마지막 비서실장을 지낸 정진석 전 국회부의장이 출사표를 던진 충남 공</description>
+      <pubDate>Fri, 01 May 2026 15:55:07 +0900</pubDate>
     </item>
     <item>
-      <title>민주, '조작기소' 특검법 발의…"5월 안에 처리할 것"</title>
-      <link>https://news.jtbc.co.kr/article/NB12296505</link>
-      <guid>https://news.jtbc.co.kr/article/NB12296505</guid>
-      <description>더불어민주당이 '윤석열 정치검찰 조작기소 진상규명 특검법'을 발의했습니다.
+      <title>국힘 대구 달성군 이진숙·인천 연수갑 박종진 단수 공천</title>
+      <link>https://news.jtbc.co.kr/article/NB12296618</link>
+      <guid>https://news.jtbc.co.kr/article/NB12296618</guid>
+      <description>국민의힘 공천관리위원회는 오늘(1일) 추경호 전 의원의 대구시장 후보 선출로 보선이 열리는 대구 달성군에 이진숙 전 방송통신위원장을 단수 공천했습니다.
 
-오늘(30일) 천준호 민주당 원내대표 직무대행과 국정조사특위 위원들은 국회 의안과에 이같은 내용의 특검법 법안을 제출했습니다.
-
-천 원내대</description>
-      <pubDate>Thu, 30 Apr 2026 17:10:38 +0900</pubDate>
+앞서 이 전 위원장은 공관위의 컷오프' 결정을 받아들여 대구시</description>
+      <pubDate>Fri, 01 May 2026 14:58:57 +0900</pubDate>
     </item>
     <item>
-      <title>검찰 '모텔 약물 살인' 김소영 추가 기소…"3명 상해 추가 확인"</title>
-      <link>https://news.jtbc.co.kr/article/NB12296492</link>
-      <guid>https://news.jtbc.co.kr/article/NB12296492</guid>
-      <description>검찰이 '강북 모텔 연쇄살인범' 김소영을 추가 기소했습니다.
+      <title>이대통령 "'친노동은 반기업' 낡은 이분법 깨야…상생의 길 열겠다"</title>
+      <link>https://news.jtbc.co.kr/article/NB12296587</link>
+      <guid>https://news.jtbc.co.kr/article/NB12296587</guid>
+      <description>이재명 대통령은 노동절인 오늘(1일) "'친노동은 반기업', '친기업은 반노동'이라는 낡은 이분법을 깰 때 우리는 비로소 더 나은 미래로 나아갈 수 있다"고 밝혔습니다.
 
-서울북부지검 형사2부는 오늘(30일) 특수상해와 마약류관리법 위반 혐의로 김소영을 추가 기소했습니다.
-
-김소영은 지난해 12월 중순부터 올해 2월까지 2</description>
-      <pubDate>Thu, 30 Apr 2026 15:56:39 +0900</pubDate>
-    </item>
-    <item>
-      <title>특검, 검찰총장 직무대행 징계 요청…"자료협조 거부·수사방해"</title>
-      <link>https://news.jtbc.co.kr/article/NB12296475</link>
-      <guid>https://news.jtbc.co.kr/article/NB12296475</guid>
-      <description>3대 특검 이후 남은 의혹을 수사하는 종합특검팀이 공개적으로 검찰총장 직무대행 징계를 요청했습니다.
-
-권창영 2차 종합특별검사팀은 오늘(30일) 언론 공지를 통해 "종합특검 수사 방해와 관련해 검찰총장 직무대행 등에</description>
-      <pubDate>Thu, 30 Apr 2026 15:16:02 +0900</pubDate>
-    </item>
-    <item>
-      <title>법원 "빗썸 영업 일부정지 6개월 처분 효력정지"</title>
-      <link>https://news.jtbc.co.kr/article/NB12296472</link>
-      <guid>https://news.jtbc.co.kr/article/NB12296472</guid>
-      <description>법원이 금융당국이 가상자산 거래소 빗썸에 내린 영업 일부정지 처분에 제동을 걸었습니다.
-
-오늘(30일) 서울행정법원 행정2부는 빗썸이 금융정보분석원이 부과한 영업 일부정지 6개월 처분을 멈춰달라며 낸 집행정지 신청을</description>
-      <pubDate>Thu, 30 Apr 2026 14:51:04 +0900</pubDate>
-    </item>
-    <item>
-      <title>이대통령 "일부 노동자 과도한 요구로 지탄받으면 다른 노동자도 피해"</title>
-      <link>https://news.jtbc.co.kr/article/NB12296463</link>
-      <guid>https://news.jtbc.co.kr/article/NB12296463</guid>
-      <description>이재명 대통령은 "일부 조직 노동자들이 자신들만 살겠다고 과도하고 부당한 요구를 해 국민들의 지탄을 받으면 해당 노조뿐만 아니라 다른 노동자들에게도 피해를 입히게 된다"고 짚었습니다.
-
-이 대통령은 오늘(30일) 청</description>
-      <pubDate>Thu, 30 Apr 2026 14:13:31 +0900</pubDate>
-    </item>
-    <item>
-      <title>대법, '서부지법 난동 가담' 18명 유죄 확정</title>
-      <link>https://news.jtbc.co.kr/article/NB12296453</link>
-      <guid>https://news.jtbc.co.kr/article/NB12296453</guid>
-      <description>지난해 1월 윤석열 전 대통령에 대한 구속영장이 발부되자 서울서부지법에서 난동을 부린 이들이 대법원에서 유죄를 확정받았습니다.
-
-대법원 3부는 오늘(30일) 특수건조물침입 등 혐의로 기소된 김모 씨 등 17명에게 징</description>
-      <pubDate>Thu, 30 Apr 2026 11:57:35 +0900</pubDate>
-    </item>
-    <item>
-      <title>경기 의왕 내손동 아파트 화재…주민 2명 숨져, 부부 관계</title>
-      <link>https://news.jtbc.co.kr/article/NB12296442</link>
-      <guid>https://news.jtbc.co.kr/article/NB12296442</guid>
-      <description>경기 의왕시 한 아파트에서 불이 나 2명이 숨졌습니다.
-
-오늘(30일) 오전 10시 30분쯤 경기 의왕시 내손동의 20층짜리 아파트에서 화재가 발생했습니다.
-
-소방 당국에 따르면 주민 1명이 추락해 숨졌고 화재 진압</description>
-      <pubDate>Thu, 30 Apr 2026 11:20:29 +0900</pubDate>
-    </item>
-    <item>
-      <title>코스피, 장중 6750선 찍으며 최고치…코스닥은 하락</title>
-      <link>https://news.jtbc.co.kr/article/NB12296425</link>
-      <guid>https://news.jtbc.co.kr/article/NB12296425</guid>
-      <description>코스피가 장 초반 최고치를 다시 쓰며 연휴 전 상승 흐름을 이어가고 있습니다.
-
-한국거래소에 따르면 오늘(30일) 오전 9시 5분 기준 코스피는 전 거래일보다 46.89포인트 오른 6737.79를 기록했습니다.
-
-지</description>
-      <pubDate>Thu, 30 Apr 2026 09:05:24 +0900</pubDate>
-    </item>
-    <item>
-      <title>삼성전자 1분기 영업익 57.2조 '역대 최대'…반도체만 54조</title>
-      <link>https://news.jtbc.co.kr/article/NB12296423</link>
-      <guid>https://news.jtbc.co.kr/article/NB12296423</guid>
-      <description>삼성전자가 올해 1분기 약 57조2300억원의 영업이익을 거두면서 역대 최대 실적을 기록한 것으로 파악됐습니다.
-
-오늘(30일) 삼성전자는 연결 기준 올해 1분기 영업이익 57조2328억원, 매출 133조8734억원</description>
-      <pubDate>Thu, 30 Apr 2026 09:00:03 +0900</pubDate>
+이 대통령은 이날 청와대에서 열린 노동절 기</description>
+      <pubDate>Fri, 01 May 2026 09:58:07 +0900</pubDate>
     </item>
   </channel>
 </rss>
