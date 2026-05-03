@@ -1,18 +1,18 @@
 <?xml version='1.0' encoding='utf-8'?>
 <rss version="2.0">
   <channel>
-    <title>🌅 모닝 브리핑 — 2026년 05월 03일</title>
+    <title>🌅 모닝 브리핑 — 2026년 05월 04일</title>
     <link>https://github.com</link>
     <description>고텐바시 (御殿場市) 날씨 + 오늘의 뉴스 10선</description>
     <language>ko</language>
-    <lastBuildDate>Sun, 03 May 2026 08:27:14 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 08:28:46 +0900</lastBuildDate>
     <item>
-      <title>🌤 고텐바시 (御殿場市) 오늘의 날씨 (2026년 05월 03일)</title>
+      <title>🌤 고텐바시 (御殿場市) 오늘의 날씨 (2026년 05월 04일)</title>
       <link>https://open-meteo.com</link>
-      <description>【현재】부분 흐림⛅  기온 17.0°C (체감 15.6°C)  풍속 4.2km/h  강수 0.0mm
-【오늘 예보】최고 19.9°C / 최저 13.1°C  강수량 8.1mm  비🌧</description>
-      <pubDate>Sun, 03 May 2026 08:27:14 +0900</pubDate>
-      <guid>weather-20260503</guid>
+      <description>【현재】이슬비🌦  기온 17.7°C (체감 17.2°C)  풍속 21.3km/h  강수 0.3mm
+【오늘 예보】최고 21.4°C / 최저 12.4°C  강수량 65.2mm  강한 비🌧</description>
+      <pubDate>Mon, 04 May 2026 08:28:46 +0900</pubDate>
+      <guid>weather-20260504</guid>
     </item>
   </channel>
 </rss>
